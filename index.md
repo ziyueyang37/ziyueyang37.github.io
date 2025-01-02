@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+hi &#128515;, this is Ziyue.
 
-Maybe say a some things about yourself.
+born & raised in	&#58643;,
 
-Or maybe what you plan to blog about.
