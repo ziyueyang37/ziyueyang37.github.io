@@ -1,4 +1,5 @@
-hi &#128515;, this is Ziyue.
+hola &#128515;, this is ziyue.
 
-born & raised in	&#58643;,
+born & raised in 	&#x1f1e8;&#x1f1f3;
 
+&#128205; boston
